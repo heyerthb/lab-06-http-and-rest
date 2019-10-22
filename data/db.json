@@ -1,18 +1,37 @@
 {
-  "categories": [{
-    "_id": "",
-    "name":"",
-    "display_name": "",
-    "description": ""
-  }],
-  "products": [{
-    "_id": "",
-    "category": "",
-    "name": "",
-    "display_name": "",
-    "description": ""
-  }]
+  "categories": [
+    {
+      "id": "24353",
+      "name": "ryan",
+      "display_name": "greg",
+      "description": "ljlj"
+    },
+    {
+      "id": "tom ",
+      "name": "sdfg",
+      "display_name": "dfgsd",
+      "description": "dfgs"
+    },
+    {
+      "id": "Mp0Rxfp",
+      "name": "test",
+      "display_name": "",
+      "description": ""
+    },
+    {
+      "id": "ryan",
+      "name": "another test",
+      "display_name": "",
+      "description": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "34",
+      "category": "sdfg",
+      "name": "lefty",
+      "display_name": "props",
+      "description": ""
+    }
+  ]
 }
-
-
-
