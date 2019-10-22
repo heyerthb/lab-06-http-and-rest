@@ -7,13 +7,13 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/heyerthb/lab-06-http-and-rest/pulls)
+* [travis](https://travis-ci.com/heyerthb/lab-01-node-ecosystem)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
+* [api docs](https://app.swaggerhub.com/home?loggedInWithGitHub=true) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
 * [styleguide](http://xyz.com) (React assignments)
 
