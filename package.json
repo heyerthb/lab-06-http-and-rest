@@ -20,6 +20,7 @@
   "homepage": "https://github.com/heyerthb/lab-06-http-and-rest#readme",
   "dependencies": {
     "eslint": "^6.5.1",
-    "json-server": "^0.15.1"
+    "json-server": "^0.15.1",
+    "lint": "^0.7.0"
   }
 }
