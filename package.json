@@ -1,0 +1,25 @@
+{
+  "name": "lab-06-http-and-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "json-server --watch data/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyerthb/lab-06-http-and-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyerthb/lab-06-http-and-rest/issues"
+  },
+  "homepage": "https://github.com/heyerthb/lab-06-http-and-rest#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "json-server": "^0.15.1"
+  }
+}
